@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Whatsapp Clone</string>
+    <string name="Whatsapp_pic">TODO</string>
+    <string name="or">or</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
